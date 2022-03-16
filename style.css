@@ -1,0 +1,30 @@
+
+body{
+    background: rgb(207, 204, 204)
+
+}
+
+header{
+    text-align: center;
+    font-size: 25px;
+
+}
+
+nav{
+    font-size: 23px;
+
+}
+main{
+    font-size: 20px;
+    padding: 10px;
+}
+
+footer{
+    text-align: center;
+}
+
+
+
+
+
+
